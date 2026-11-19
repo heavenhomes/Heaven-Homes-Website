@@ -12,3 +12,10 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Allow CSS, JS and image assets to be crawled for accurate rendering
+Allow: /assets/
+Allow: /*.css$
+Allow: /*.js$
+
+Sitemap: https://www.heavenhomess.in/sitemap.xml
