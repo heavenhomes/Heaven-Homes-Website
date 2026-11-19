@@ -14,7 +14,7 @@ const NAV_ITEMS = [
 ];
 
 export const SOCIAL = {
-  instagram: "https://www.instagram.com/heavenh0mes/",
+  instagram: "https://www.instagram.com/heavenhomesandrealty/",
   facebook: "https://www.facebook.com/profile.php?id=61583649045116",
 };
 
